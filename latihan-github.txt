@@ -1,0 +1,3 @@
+Data Mahasiswa
+- Mengumpulkan data Mahasiswa
+- Membuat platform untuk pengelolaan data mahasiswa
