@@ -1,3 +1,5 @@
 Data Mahasiswa
-- Mengumpulkan data Mahasiswa
+- Mengumpulkan data mahasiswa
 - Membuat platform untuk pengelolaan data mahasiswa
+- Mengisi data mahasiswa
+- Kolaborasi dengan tim
