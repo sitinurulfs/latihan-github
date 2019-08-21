@@ -6,3 +6,11 @@ RENCANA KONTEN DATA MAHASISWA
 - Email Mahasiswa
 - Fakultas
 - SKS
+
+2. BIODATA DOSEN
+- Nomor Induk Dosen
+- Nama Dosen
+- Email Dosen
+- Fakultas
+- Program Studi
+- Jadwal
