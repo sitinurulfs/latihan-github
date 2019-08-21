@@ -1,0 +1,8 @@
+RENCANA KONTEN DATA MAHASISWA
+
+1. BIODATA MAHASISWA
+- Nomor Induk Mahasiswa
+- Nama Mahasiswa
+- Email Mahasiswa
+- Fakultas
+- SKS
