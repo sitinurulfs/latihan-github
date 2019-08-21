@@ -7,12 +7,9 @@ RENCANA KONTEN DATA MAHASISWA
 - Fakultas
 - Jurusan
 - SKS
-- Jadwal
-
 2. BIODATA DOSEN
 - Nomor Induk Dosen
 - Nama Dosen
-- Email Dosen
 - Fakultas
 - Program Studi
 - Jadwal
